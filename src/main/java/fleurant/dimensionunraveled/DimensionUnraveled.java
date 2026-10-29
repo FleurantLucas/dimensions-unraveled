@@ -1,5 +1,8 @@
 package fleurant.dimensionunraveled;
 
+import fleurant.dimensionunraveled.block.ModBlocks;
+import fleurant.dimensionunraveled.item.ModItemGroups;
+import fleurant.dimensionunraveled.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.util.Identifier;
@@ -13,7 +16,9 @@ public class DimensionUnraveled implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItemGroups.registerItemsGroups();
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 
 	public static Identifier id(String path) {

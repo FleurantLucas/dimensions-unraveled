@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "dimension-unraveled:block/raw_orange_garnet_block"
+  }
+}

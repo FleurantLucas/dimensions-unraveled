@@ -1,0 +1,11 @@
+{
+  "item.dimension-unraveled.orange_garnet" : "Orange Garnet",
+  "item.dimension-unraveled.raw_orange_garnet" : "Raw Orange Garnet",
+
+  "block.dimension-unraveled.orange_garnet_block" : "Block of Orange Garnet",
+  "block.dimension-unraveled.raw_orange_garnet_block" : "Block of Raw Orange Garnet",
+
+
+  "itemgroup.dimension-unraveled.orange_garnet_items" : "Orange Garnet Items",
+  "itemgroup.dimension-unraveled.orange_garnet_blocks" : "Orange Garnet Blocks"
+}
